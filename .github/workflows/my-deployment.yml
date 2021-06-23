@@ -1,7 +1,6 @@
 
 
 name: CI-CD-ubuntu
-
 on:
   push:
     branches: [ master ]
